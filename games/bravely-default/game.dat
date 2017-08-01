@@ -28,3 +28,13 @@ author = "SonofUgly"
 cpu = "i5-6600k @ 4.3GHz"
 gpu = "GeForce GTX 750Ti"
 os = "Windows 8.1"
+
+[[ testcases ]]
+title = "00040000000fc600"
+compatibility = "1"
+date = "2017-08-01"
+version = "	Nightly Build - 035716d"
+author = "Gen15Lien"
+cpu = "AMD FX-8370 @ 4.0GHz"
+gpu = "GeForce GTX 970"
+os = "Windows 7"
